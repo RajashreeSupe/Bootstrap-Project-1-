@@ -1,0 +1,57 @@
+ .carousel-item img{
+    height: 90vh;
+    min-height: 500px;
+    background-size: cover;
+} 
+
+ .navbar-nav a{
+    font-family:poppins;
+    font-size: 18px;
+    text-transform: uppercase; 
+    font-weight: bold;
+ }
+
+
+
+
+/* .navbar-light .navbar-nav .active> .nav-link,.navbar-light .navbar-nav  .nav-link .active,.navbar-light .navbar-nav .nav-link.show,.navbar-light .navbar-nav .show > .nav-link{
+    color:#fff;
+} */
+
+/* .navbar-light .navbar-nav .nav-link{
+    color:#fff;
+} */
+
+.navbar-nav{
+    text-align: center;
+}
+.nav-link{
+    padding: .2rem 1rem;
+}
+/* 
+.nav-link.active, .nav-link:focus{
+    color:black!important;
+
+} */
+
+.container-fluid {
+    background-color: black;
+    
+    
+}
+
+/* .nav-item {
+    color: white;
+} */
+
+.collapse navbar-collapse {
+    color: white;
+}
+
+a.navbar-brand {
+    color: white;
+}
+
+a.nav-link {
+    color: white;
+}
